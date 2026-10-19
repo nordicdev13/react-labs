@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480">
+  <rect width="960" height="480" fill="#f3f6f1"/>
+  <g fill="#d5e3d1">
+    <circle cx="120" cy="100" r="52"/><circle cx="220" cy="95" r="40"/>
+    <circle cx="400" cy="395" r="46"/><circle cx="490" cy="410" r="34"/>
+    <circle cx="740" cy="95" r="48"/><circle cx="845" cy="110" r="54"/>
+  </g>
+  <ellipse cx="770" cy="310" rx="140" ry="90" fill="#bcd6ee"/>
+  <path d="M110 340 C200 340 225 190 380 210 S560 340 650 300" fill="none" stroke="#fff" stroke-width="28"/>
+  <path d="M110 340 C200 340 225 190 380 210 S560 340 650 300" fill="none" stroke="#1956ad" stroke-width="6" stroke-dasharray="13 10"/>
+  <g fill="#fff" stroke="#1956ad" stroke-width="4">
+    <circle cx="110" cy="340" r="14"/><circle cx="380" cy="210" r="14"/><circle cx="650" cy="300" r="14"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#202735" font-size="24">
+    <text x="65" y="392">Вхід</text><text x="315" y="175">Галявина</text><text x="730" y="320">Озеро</text>
+    <text x="40" y="48" font-size="28" font-weight="bold">Коротка стежка · 3 км</text>
+    <text x="600" y="446" font-size="18">Умовна навчальна схема</text>
+  </g>
+</svg>

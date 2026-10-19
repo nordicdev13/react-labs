@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="400" viewBox="0 0 960 400">
+  <rect width="960" height="400" fill="#f3f6f1"/>
+  <path d="M80 315 H870" stroke="#d7c9ac" stroke-width="36"/>
+  <g fill="#809771"><circle cx="120" cy="150" r="50"/><circle cx="855" cy="145" r="52"/></g>
+  <g stroke="#86684d" stroke-width="12" fill="none">
+    <path d="M255 176 H425 M255 203 H425 M275 203 V245 M405 203 V245"/>
+  </g>
+  <g stroke="#1956ad" stroke-width="8" fill="none">
+    <path d="M590 244 V158 H632 V180"/><path d="M575 246 H608"/>
+  </g>
+  <path d="M632 193 Q617 211 632 218 Q647 211 632 193" fill="#1956ad"/>
+  <path d="M745 315 H835 M816 299 L837 315 L816 331" fill="none" stroke="#1956ad" stroke-width="5"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#202735">
+    <text x="40" y="50" font-size="28" font-weight="bold">Зона відпочинку</text>
+    <text x="315" y="282" font-size="24">Лава</text><text x="545" y="282" font-size="24">Питна вода</text>
+    <text x="691" y="372" font-size="21">На стежку →</text>
+  </g>
+</svg>
