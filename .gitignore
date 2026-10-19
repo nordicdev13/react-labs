@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Production & Build outputs
+dist/
+build/
+.expo/
+web-build/
+
+# Misc
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.pem
+
+# Local env files
+.env*.local
+.env
+
+# TypeScript cache
+*.tsbuildinfo
