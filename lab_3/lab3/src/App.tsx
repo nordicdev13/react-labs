@@ -7,7 +7,7 @@ export default function App() {
       <Heading
         firstName="Сергій"
         lastName="Перерва"
-        group="ІПЗ-21"
+        group="ІПЗ-41"
       />
 
       <section aria-labelledby="subjects-title">
@@ -15,31 +15,43 @@ export default function App() {
 
         <div className="subjects">
           <Subject
-            subjectName="Розробка мобільних застосунків"
-            description="Розробка мобільних інтерфейсів та застосунків з використанням React Native."
+            subjectName="Розробка кросплатформних додатків на базі React Native"
+            lessonType="Практичні"
+            description="Розробка кросплатформних мобільних інтерфейсів та застосунків з використанням React Native."
             credits={5}
-            semester={4}
-            teacher="Ірина Мельник"
+            semester="VII"
+            teacher="Ящук Андрій Анатолійович"
+            classroom="ауд. П 304"
+            building="Корпус П, 3 поверх"
           />
           <Subject
-            subjectName="Бази даних та інформаційні системи"
-            description="Моделювання даних, нормалізація, складання та оптимізація запитів SQL."
-            credits={4}
-            semester={4}
-            teacher="Андрій Бондар"
-          />
-          <Subject
-            subjectName="Комп’ютерні мережі"
-            description="Архітектура мереж, стеки протоколів TCP/IP, маршрутизація та обмін даними."
-            credits={4}
-            semester={4}
-          />
-          <Subject
-            subjectName="Алгоритми та структури даних"
-            description="Оцінка складності алгоритмів, дерева, графи, методи сортування та динамічне програмування."
+            subjectName="Платформа .NET і мова програмування C#"
+            lessonType="Практичні"
+            description="Програмування мовою C#, об'єктно-орієнтована архітектура та створення застосунків на платформі .NET."
             credits={5}
-            semester={3}
-            teacher="Олександр Шевченко"
+            semester="VII"
+            teacher="Ящук Андрій Анатолійович"
+            classroom="ауд. П 304"
+            building="Корпус П, 3 поверх"
+          />
+          <Subject
+            subjectName="Адміністрування комп'ютерних систем та мереж"
+            lessonType="Лекції"
+            description="Архітектура систем, налаштування та адміністрування мережевих служб і серверних ОС."
+            credits={4}
+            semester="VI"
+            teacher="Саварин Павло Вікторович"
+            classroom="ауд. П 304"
+            building="Корпус П, 3 поверх"
+          />
+          <Subject
+            subjectName="Якість програмного забезпечення та тестування"
+            lessonType="Лекції"
+            description="Методи забезпечення якості, рівні тестування, складання тест-планів та автоматизація тестування ПЗ."
+            credits={4}
+            semester="VI"
+            teacher="Гордєєв Олександр Олександрович"
+            classroom="Дистанційно"
           />
         </div>
       </section>
